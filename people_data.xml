@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<people>
+  <id>001</id>
+  <name>Jan Kowalski</name>
+  <location>Warszawa</location>
+  <address>
+    <street>Marszałkowska</street>
+    <building>10</building>
+    <apartment>2</apartment>
+  </address>
+  <contact>
+    <phone>123-456-789</phone>
+    <email>jan.kowalski@example.com</email>
+  </contact>
+  <id>002</id>
+  <name>Anna Nowak</name>
+  <location>Kraków</location>
+  <address>
+    <street>Floriańska</street>
+    <building>15</building>
+    <apartment>5</apartment>
+  </address>
+  <contact>
+    <phone>987-654-321</phone>
+    <email>anna.nowak@example.com</email>
+  </contact>
+</people>
